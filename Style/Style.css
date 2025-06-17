@@ -228,7 +228,7 @@ header{
 .color1{
     color: #121a80;
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 650px) {
     .navbar {
         flex-direction: column;
         align-items: center;
