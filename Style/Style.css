@@ -179,11 +179,9 @@ header{
     text-align: center;
     border-right: 4px solid #4a90e2;
 }
-.contactus form{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    width: 100%
+.formulairenewsletter{
+    display: inline;
+    width: 100%;
 }
 .contactus input{
     width: 60;
